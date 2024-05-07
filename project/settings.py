@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     "crispy_bootstrap5",
     "django_htmx",
     "compressor",
+    "django_admin_generator",
     # my app
     # "accounts.apps.AccountsConfig",
     "inventory",
